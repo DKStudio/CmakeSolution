@@ -1,0 +1,2 @@
+# CmakeSolution
+CMake Project Template
